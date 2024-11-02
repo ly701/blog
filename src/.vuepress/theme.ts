@@ -7,13 +7,13 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "离子青",
     url: "https://mister-hope.com",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://ly701.github.io/blog/assets/images/img-39e4eae251a0b07af423ce8b38a8f0f2.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -66,7 +66,7 @@ export default hopeTheme({
       Youtube: "https://example.com",
       Zhihu: "https://example.com",
       VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
+        icon: "https://ly701.github.io/blog/assets/images/img-39e4eae251a0b07af423ce8b38a8f0f2.jpg",
         link: "https://theme-hope.vuejs.press",
       },
     },

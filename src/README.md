@@ -33,7 +33,7 @@ tagline: 一个粗糙的开始就是最好的开始
 #     desc: 伙伴详细介绍
 #     link: https://你的伙伴链接
 
-#   - icon: https://theme-hope-assets.vuejs.press/logo.svg
+#   - icon: https://ly701.github.io/blog/assets/images/img-39e4eae251a0b07af423ce8b38a8f0f2.jpg
 #     name: 自定义项目
 #     desc: 自定义详细介绍
 #     link: https://你的自定义链接
